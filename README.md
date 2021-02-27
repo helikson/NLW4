@@ -8,9 +8,9 @@
 
 > Desenvolvimento do projeto move.it ao decorrer da NextLevelWeek#4
 
-### 🏠 [Homepage](https://github.com/helikson/NLW4)
+### 🏠 [Homepage](https://helikson.vercel.app/)
 
-### ✨ [Demo](https://github.com/helikson/NLW4)
+<!-- ### ✨ [Demo](https://github.com/helikson/NLW4) -->
 
 ## Install
 
@@ -28,7 +28,7 @@ yarn dev
 
 👤 **Helikson Maurilio**
 
-* Website: https://github.com/helikson
+* Website: https://helikson.vercel.app/
 * Github: [@helikson](https://github.com/helikson)
 * LinkedIn: [@helikson](https://linkedin.com/in/helikson)
 
